@@ -1,4 +1,4 @@
-#  Hey There <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm [Aniket](https://www.linkedin.com/in/aniket-satapathy-847bab1b7) !!
+#  Hey There <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm [Aniket](https://aniket-1812.github.io/Portfolio-Website/) !!
 
 <br>
 
@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-🎓 I’m currently a junior pursuing my Bachelors in Computer Science & Engineering and have a strong interest in Open-Source💙 <br />
+🎓 I’m currently a junior pursuing my Bachelors in Computer Science & Engineering and have a strong interest in Open-Source💙</br>
 ✨ I'm passionate about Web Dev, Machine Learning, DevOps and learning new things!
 
 <br>
