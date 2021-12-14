@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <a href="mailto:aniketsatapathy193@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"   />
 </a>
-<a href="https://twitter.com/Aniket99_">
+<a href="https://twitter.com/aniketsat">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"   />
 </a>
 
@@ -29,4 +29,4 @@ Here are some ideas to get you started:
 <br>
 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=aniket-1812)
+![Github stats](https://github-readme-stats.vercel.app/api?username=aniketsat)
