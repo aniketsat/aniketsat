@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <br>
 
 🎓 I’m currently a junior pursuing my Bachelors in Computer Science & Engineering and have a strong interest in Open-Source💙</br>
-✨ I'm passionate about Web Dev, DevOps and I love learning new things!
+✨ I'm passionate about Web Dev, DevOps and I love learning new things !!
 
 <br>
 <br>
