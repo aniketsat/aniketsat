@@ -83,7 +83,7 @@ Here are some ideas to get you started:
     </a>
 </p>
 
-## ✨GitHub Stats  : 
+## ✨GitHub Stats : 
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aniketsat&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=aniketsat&theme=tokyonight" />
